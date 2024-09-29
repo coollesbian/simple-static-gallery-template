@@ -1,5 +1,5 @@
 html {
-    background: radial-gradient(rgb(211, 255, 209), rgb(122, 184, 212));
+    background: radial-gradient(rgb(255, 149, 221), rgb(31, 199, 255));
     background-attachment: fixed;
     background-size: 200%;
     background-position: 75% 75%;
@@ -7,7 +7,7 @@ html {
     font-size: 18pt;
     font-family: "Roboto Flex", "Roboto Condensed", sans-serif;
 
-    --primary-color: rgb(68, 102, 85);
+    --primary-color: rgb(107, 93, 252);
     --text-color: rgb(255, 255, 255);
     --link-color: rgb(255, 181, 212);
 
